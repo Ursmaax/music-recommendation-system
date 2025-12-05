@@ -1,6 +1,16 @@
 # 🌌 Music Recommendation System
 ### *Where Emotions Meet Melody*
 
+## 🚀 Run the Application Online
+
+You can run the full **Music Recommendation System** directly in your browser — no installation needed.
+
+👉 **Try it on Hugging Face Spaces:**  
+https://huggingface.co/spaces/umamaheshsativada/music-recommendation-system
+
+[![Run on Hugging Face Spaces](https://img.shields.io/badge/HuggingFace-Spaces-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/umamaheshsativada/music-recommendation-system)
+
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Gradio](https://img.shields.io/badge/Gradio-4.x-orange?style=for-the-badge&logo=gradio&logoColor=white)](https://gradio.app/)
@@ -89,6 +99,8 @@ export SPOTIPY_CLIENT_SECRET='your_client_secret'
 python app.py
 ```
 The application will launch at `http://localhost:7860`.
+
+
 
 ---
 
