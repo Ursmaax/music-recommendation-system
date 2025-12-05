@@ -1,0 +1,15 @@
+ravdess_audio        exists=True   files=0
+ravdess_video        exists=True   files=0
+cremad_AudioWAV      exists=True   files=7442
+fer2013_train        exists=False   files=0
+fer2013_test         exists=True   files=235
+ravdess_audio        exists=True   files=1440
+ravdess_video        exists=True   files=2878
+cremad_AudioWAV      exists=True   files=7442
+fer2013_train        exists=False   files=0
+fer2013_test         exists=True   files=913
+ravdess_audio        exists=True   files=1440
+ravdess_video        exists=True   files=2878
+cremad_AudioWAV      exists=True   files=7442
+fer2013_train        exists=True   files=28709
+fer2013_test         exists=True   files=4672
